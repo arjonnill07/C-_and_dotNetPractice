@@ -1,0 +1,16 @@
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.exe
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.deps.json
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.runtimeconfig.json
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.runtimeconfig.dev.json
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.dll
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\ref\OopExamples.dll
+D:\workshop\C#_.NET\OopExamples\bin\Debug\net5.0\OopExamples.pdb
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.csproj.AssemblyReference.cache
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.AssemblyInfoInputs.cache
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.AssemblyInfo.cs
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.csproj.CoreCompileInputs.cache
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.dll
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\ref\OopExamples.dll
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.pdb
+D:\workshop\C#_.NET\OopExamples\obj\Debug\net5.0\OopExamples.genruntimeconfig.cache
